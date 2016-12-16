@@ -7,6 +7,9 @@ Desktop.ini
 
 # Recycle Bin used on file shares
 $RECYCLE.BIN/
+Space_GameJam/Binaries
+Space_GameJam/Intermediate/
+Space_GameJam/Saved/
 
 # Windows Installer files
 *.cab
